@@ -1,0 +1,5 @@
+Requirements for this classification:
+1. google colab
+2. need to import python libraries 
+3. CIFAR-10 kaggle dataset for classifying images
+4. a cnn model  
